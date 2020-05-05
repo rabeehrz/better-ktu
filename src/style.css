@@ -1,0 +1,23 @@
+@media (min-width: 768px) {
+  #sidebar-wrapper {
+    left: 0 !important;
+    margin-left: 0 !important;
+  }
+
+  #real-sidebar-toggler {
+    display: none !important;
+  }
+}
+
+#sidebar-wrapper {
+  left: 0 !important;
+}
+
+#real-sidebar-toggler {
+  display: inline-block;
+}
+
+.toggle-control {
+  margin-left: 0 !important;
+  height: auto !important;
+}
