@@ -15,6 +15,7 @@
 
 #real-sidebar-toggler {
   display: inline-block;
+  margin: 0 15px;
 }
 
 .toggle-control {
